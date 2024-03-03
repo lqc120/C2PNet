@@ -1,0 +1,3 @@
+The project is 'Automatic Segmentation of Curtain Wall Frame Using a Context Collaboration Pyramid Network'. 
+This is the model file of C2PNet.
+Code is being updated...
